@@ -1,5 +1,6 @@
 # Release Notes Example 1
 Version: x.x.x
+
 Date Updated: x.x.x
 
 ## New Features
