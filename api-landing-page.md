@@ -19,7 +19,7 @@ The X API has uses the following requests and responses:
 
 | Status Code   | Response
 | ------------- | ------------- |
-| 200 | Successful |
+| 200 | OK |
 | 301 | Permanently moved |
 | 400 | Bad Request|
 | 404 | Not Found|
