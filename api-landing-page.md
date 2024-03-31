@@ -6,8 +6,10 @@ To access the X API, you need the X base URL. You need to create an X account. L
 
 ## How to Authenicate
 To obtain the API key, follow these steps:
-* Step 1
-* Step 2
+
+1. Step
+2. Step
+3. Step
 
 The X API supports the following authentication types:
 * Bearer token
